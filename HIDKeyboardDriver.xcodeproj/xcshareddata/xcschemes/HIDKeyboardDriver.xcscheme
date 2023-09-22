@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "0F3C564A22F499310042723A"
-               BuildableName = "com.example.apple-samplecode.KeyboardDriver.dext"
+               BuildableName = "com.xreal.KeyboardDriver.dext"
                BlueprintName = "KeyboardDriver"
                ReferencedContainer = "container:HIDKeyboardDriver.xcodeproj">
             </BuildableReference>
@@ -51,7 +51,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "0F3C564A22F499310042723A"
-            BuildableName = "com.example.apple-samplecode.KeyboardDriver.dext"
+            BuildableName = "com.xreal.KeyboardDriver.dext"
             BlueprintName = "KeyboardDriver"
             ReferencedContainer = "container:HIDKeyboardDriver.xcodeproj">
          </BuildableReference>

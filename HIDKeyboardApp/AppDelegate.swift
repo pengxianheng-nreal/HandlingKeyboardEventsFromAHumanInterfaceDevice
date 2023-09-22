@@ -11,7 +11,7 @@ import SystemExtensions
 @NSApplicationMain
 class AppDelegate: NSObject, NSApplicationDelegate, OSSystemExtensionRequestDelegate {
 
-    let driverID = "com.example.apple-samplecode.KeyboardDriver"
+    let driverID = "com.xreal.KeyboardDriver"
 
     func applicationDidFinishLaunching(_ aNotification: Notification) {
         // Insert code here to initialize your application.
